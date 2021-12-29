@@ -14,7 +14,7 @@ Parameters:
 Mappings:
   RegionMap:
     us-east-1:
-      AMI: ami-1853ac65
+      AMI: ami-0ed9277fb7eb570c9 # Amazon Linux AMI in Virginia
     us-west-1:
       AMI: ami-bf5540df
     eu-west-1:
